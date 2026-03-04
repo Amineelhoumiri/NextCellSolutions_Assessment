@@ -1,0 +1,162 @@
+[
+    {
+        "id": "1",
+        "name": "Alice Johnson",
+        "email": "alice@example.com",
+        "status": "New",
+        "createdAt": "2026-03-01T10:00:00Z",
+        "notes": "Interested in cloud solutions."
+    },
+    {
+        "id": "2",
+        "name": "Bob Smith",
+        "email": "bob@techcorp.com",
+        "status": "Contacted",
+        "createdAt": "2026-03-01T11:30:00Z",
+        "notes": "Follow up on Tuesday."
+    },
+    {
+        "id": "3",
+        "name": "Charlie Davis",
+        "email": "charlie@startup.io",
+        "status": "Qualified",
+        "createdAt": "2026-03-02T09:15:00Z",
+        "notes": "High budget client."
+    },
+    {
+        "id": "4",
+        "name": "Diana Prince",
+        "email": "diana@amazon.com",
+        "status": "Lost",
+        "createdAt": "2026-03-02T14:45:00Z",
+        "notes": "Went with a competitor."
+    },
+    {
+        "id": "5",
+        "name": "Edward Norton",
+        "email": "edward@films.com",
+        "status": "New",
+        "createdAt": "2026-03-02T16:20:00Z",
+        "notes": "Wants a demo."
+    },
+    {
+        "id": "6",
+        "name": "Fiona Gallagher",
+        "email": "fiona@southside.com",
+        "status": "Contacted",
+        "createdAt": "2026-03-03T08:00:00Z",
+        "notes": "Checking internal approval."
+    },
+    {
+        "id": "7",
+        "name": "George Miller",
+        "email": "george@madmax.com",
+        "status": "Qualified",
+        "createdAt": "2026-03-03T12:10:00Z",
+        "notes": "Ready to sign contract."
+    },
+    {
+        "id": "8",
+        "name": "Hannah Abbott",
+        "email": "hannah@hogwarts.edu",
+        "status": "New",
+        "createdAt": "2026-03-03T15:30:00Z",
+        "notes": "Inquiry from website."
+    },
+    {
+        "id": "9",
+        "name": "Ian Wright",
+        "email": "ian@arsenal.co.uk",
+        "status": "Contacted",
+        "createdAt": "2026-03-04T09:45:00Z",
+        "notes": "Left a voicemail."
+    },
+    {
+        "id": "10",
+        "name": "Jenny Slate",
+        "email": "jenny@comedy.com",
+        "status": "Lost",
+        "createdAt": "2026-03-04T11:00:00Z",
+        "notes": "Not the right fit currently."
+    },
+    {
+        "id": "11",
+        "name": "Kevin Hart",
+        "email": "kevin@laugh.com",
+        "status": "Qualified",
+        "createdAt": "2026-03-04T13:20:00Z",
+        "notes": "Expansion project."
+    },
+    {
+        "id": "12",
+        "name": "Laura Palmer",
+        "email": "laura@twinpeaks.com",
+        "status": "New",
+        "createdAt": "2026-03-04T14:50:00Z",
+        "notes": "Urgent request."
+    },
+    {
+        "id": "13",
+        "name": "Mike Wazowski",
+        "email": "mike@monsters.inc",
+        "status": "Contacted",
+        "createdAt": "2026-03-04T16:10:00Z",
+        "notes": "Needs more documentation."
+    },
+    {
+        "id": "14",
+        "name": "Nina Simone",
+        "email": "nina@jazz.com",
+        "status": "Qualified",
+        "createdAt": "2026-03-05T09:00:00Z",
+        "notes": "Recurring partnership interest."
+    },
+    {
+        "id": "15",
+        "name": "Oscar Isaac",
+        "email": "oscar@dune.com",
+        "status": "New",
+        "createdAt": "2026-03-05T10:30:00Z",
+        "notes": "Referral from partner."
+    },
+    {
+        "id": "16",
+        "name": "Peter Parker",
+        "email": "peter@dailybugle.com",
+        "status": "Contacted",
+        "createdAt": "2026-03-05T11:45:00Z",
+        "notes": "Discussing photography services."
+    },
+    {
+        "id": "17",
+        "name": "Quentin Tarantino",
+        "email": "qt@pulp.com",
+        "status": "Lost",
+        "createdAt": "2026-03-05T13:15:00Z",
+        "notes": "Budget constraints."
+    },
+    {
+        "id": "18",
+        "name": "Riley Reid",
+        "email": "riley@studios.com",
+        "status": "New",
+        "createdAt": "2026-03-05T14:40:00Z",
+        "notes": "New lead from LinkedIn."
+    },
+    {
+        "id": "19",
+        "name": "Steven Spielberg",
+        "email": "steve@amblin.com",
+        "status": "Qualified",
+        "createdAt": "2026-03-05T15:55:00Z",
+        "notes": "Scaling production team."
+    },
+    {
+        "id": "20",
+        "name": "Tony Stark",
+        "email": "tony@starkintl.com",
+        "status": "Contacted",
+        "createdAt": "2026-03-05T16:50:00Z",
+        "notes": "Interested in energy tech."
+    }
+]

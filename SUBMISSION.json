@@ -1,0 +1,61 @@
+{
+    "candidate": {
+        "name": "Amine El Houmiri",
+        "email": "medamineelhoumiri@gmail.com",
+        "time_spent_part1_minutes": 90,
+        "time_spent_part2_minutes": 90
+    },
+    "frontend": {
+        "framework": "Next.js 16 (App Router)",
+        "language": "TypeScript",
+        "styling": "Tailwind CSS v4",
+        "component_library": "shadcn/ui",
+        "shadcn_components_used": [
+            "Table",
+            "Dialog",
+            "Card",
+            "Button",
+            "Input",
+            "Select"
+        ],
+        "pages": [
+            "/login",
+            "/dashboard"
+        ],
+        "features": [
+            "Login page with localStorage session",
+            "Analytics cards (Total, New, Contacted, Qualified, Lost)",
+            "Searchable and filterable lead table",
+            "Lead detail modal on row click",
+            "Create new lead modal",
+            "Server-side filtering via query params",
+            "Real-time WebSocket updates"
+        ]
+    },
+    "backend": {
+        "framework": "FastAPI",
+        "language": "Python 3.9",
+        "database": "SQLite (database.db)",
+        "endpoints": [
+            "GET /leads",
+            "GET /leads/{id}",
+            "POST /leads",
+            "PATCH /leads/{id}",
+            "WS /ws/leads"
+        ],
+        "feature_toggles": {
+            "websockets_enabled": true,
+            "server_side_filtering": true,
+            "persistent_storage": true,
+            "jwt_authentication": false
+        }
+    },
+    "submission": {
+        "repo_structure_compliant": true,
+        "typescript_strict": true,
+        "has_readme": true,
+        "has_submission_md": true,
+        "has_submission_json": true,
+        "has_requirements_txt": true
+    }
+}
